@@ -7,3 +7,9 @@ public class VirtualPetApp {
 	}
 
 }
+//@Test
+//void getInput() {
+//	String testInt = "test_string";
+//	Scanner input = new Scanner(testInt);
+//	assertTrue(true,input.toString());	
+//}
