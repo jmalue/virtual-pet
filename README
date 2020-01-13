@@ -1,0 +1,6 @@
+Created a virtual pet class and virtual pet app
+virtual pet app referenced the virtual pet class, which contained the tick() method,
+the 3 instance variables and the 3 methods.
+
+In the virtual pet app I attempted unsuccessfully to implement a game loop. 
+I was successful in asking for user inputs and generating outputs based on the inputs.
